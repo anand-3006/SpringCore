@@ -1,2 +1,2 @@
-# CoreJava
-Core Java
+Spring Core
+
